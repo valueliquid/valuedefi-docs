@@ -17,29 +17,38 @@ As there are less steps to perform and the LP tokens stay within the Smart Contr
 
 FaaS infographic: [https://valuedefi.io/resources](https://valuedefi.io/resources)
 
-### I'd like to use FaaS to distribute tokens, where do I start?
+### FREQUENTLY ASKED QUESTIONS \(FAQs\)
 
-We're currently working on getting the interfaces set up so anyone can use this unique service. In the meantime please contact us via email [contact@valuedefi.io](mailto:contact@valuedefi.io)
+**1\) What is Farms-as-a-Service \(FaaS\)?**  
+Launched by Value DeFi, Farms-as-a-Service \(FaaS\) is the quickest and easiest way for new projects to kickstart liquidity of their coin without any upfront payment or cost. No permission is required by Value DeFi. Simply create your FaaS pool and let the community stake to it! Creating a FaaS pool on our platform is a great opportunity for your project to be exposed to a larger audience and it will also generate demand for your token!
 
-Value DeFi - Farms-as-a-Service \(FaaS\) Frequently Asked Questions
+**2\) Why would I want to create a FaaS pool for my project?**  
+In line with our mission to make DeFi accessible for everyone, we created FaaS to allow new projects to easily deploy their contracts instead of having to spend time on forking and deploying the associated contracts the relevant contracts. With Value Liquid’s Farming Pool Creation UI teams can now create the desired customized liquidity pools and pairs along with flexible ratios, customizable fees, and token contract minter approval for the Liquidity Pool with a couple of clicks. An example would be a pool with USDC/New token 67/23 ratio with a 0.60% swap fee that has token minting per block just like Sushiswap.
 
-1\) What is Farms-as-a-Service \(FaaS\)? Launched by Value DeFi, Farms-as-a-Service \(FaaS\) is the quickest and easiest way for new projects to kickstart liquidity of their coin without any upfront payment or cost. No permission is required by Value DeFi. Simply create your FaaS pool and let the community stake to it! Creating a FaaS pool on our platform is a great opportunity for your project to be exposed to a larger audience and it will also generate demand for your token!
+**3\) Is there a cost associated with the creation of a FaaS pool?**  
+There is no fee associated with the creation of a FaaS pool other than the network gas fee required to get it setup on the blockchain.
 
-2\) Why would I want to create a FaaS pool for my project? In line with our mission to make DeFi accessible for everyone, we created FaaS to allow new projects to easily deploy their contracts instead of having to spend time on forking and deploying the associated contracts the relevant contracts. With Value Liquid’s Farming Pool Creation UI teams can now create the desired customized liquidity pools and pairs along with flexible ratios, customizable fees, and token contract minter approval for the Liquidity Pool with a couple of clicks. An example would be a pool with USDC/New token 67/23 ratio with a 0.60% swap fee that has token minting per block just like Sushiswap.
+**4\) I’m ready to move forward and create my first FaaS pool… what do I need to do?**  
+              **• Step 1 -** Log into [https://valueliquid.io/\#/faas](https://valueliquid.io/#/faas)  
+              **• Step 2 -** Click the “_Create FaaS pool_” button  
+              **• Step 3** - Complete all the required fields  
+              **• Step 4** - Submit your pool to the blockchain with the push of a button and voila!
 
-3\) Is there a cost associated with the creation of a FaaS pool? There is no fee associated with the creation of a FaaS pool other than the network gas fee required to get it setup on the blockchain.
+As a reminder, no change can be made to a FaaS pool once it is created! This was done by design to protect current stakers.
 
-4\) I’m ready to move forward and create my first FaaS pool… what do I need to do? • Step 1: Log into [https://valueliquid.io/\#/faas](https://valueliquid.io/#/faas) • Step 2: Click the “Create FaaS pool” button • Step 3: Complete all the required fields • Step 4: Submit your pool to the blockchain with the push of a button and voila!
+**5\) How long does it take to setup a FaaS pool?**  
+ Assuming you know the pool parameters for your pool, getting it up-and-running shouldn’t take more than 15 minutes!
 
-5\) How long does it take to setup a FaaS pool? Assuming you know the pool parameters for your pool, getting it up-and-running shouldn’t take more than 15 minutes!
+**6\) What are the pool parameters required to create a FaaS pool?**  
+             ****• _The pair of tokens_  
+             ****• _The pool weight_ \(i.e. 98-2%\)  
+             ****• _The reward token_  
+             • _Reward per block_ \(\# of coins allocated as rewards per ETH block for liquidity providers in this pool\)  
+             ****• _Lock reward percentage_ \(% of distributed rewards locked until a certain ETH block height is reached\)  
+             ****• _Reward start and end blocks_  
+             ****• _Vesting start and end blocks_ \(ETH block height at which the pool starts distributing locked rewards to liquidity providers\)  
+             ****• _Unstaking frozen time_ \(the amount of time liquidity providers of the pool will have their liquidity locked at the pool\)
 
-6\) What are the pool parameters required to create a FaaS pool? • The pair of tokens • The pool weight \(i.e. 98-2%\) • The reward token • Reward per block \(amount of coins allocated as rewards per ETH block for liquidity providers in this pool\) • Lock reward percentage \(percentage of distributed rewards locked until a certain ETH block height is reached\) • Reward start and end blocks • Vesting start and end blocks \(ETH block height at which the pool starts distributing locked rewards to liquidity providers\) • Unstaking frozen time \(the amount of time liquidity providers of the pool will have their liquidity locked at the pool\)
-
-**7\) Am I able to make any changes to my FaaS pool after it’s created?**
-
-No changes can be made to a FaaS pool once it is created. This was done by design in order to protect stakers.
-
-**8\) Where can I go to learn more?**
-
-Don’t hesitate to visit our FaaS resource page - [https://docs.valuedefi.io/products/farms-as-a-service](https://docs.valuedefi.io/products/farms-as-a-service) to learn more. We also recommend you join our Discord & Telegram and ask any questions you might have
+**7\) Where do I go to learn more?**  
+Don’t hesitate to visit our FaaS resource section - [https://docs.valuedefi.io/products/farms-as-a-service](https://docs.valuedefi.io/products/farms-as-a-service). We also recommend you join our Discord & Telegram groups; one of our mods will be more than happy to answer any questions you might have.
 
