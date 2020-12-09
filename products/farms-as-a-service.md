@@ -5,6 +5,7 @@
 ![](../.gitbook/assets/image%20%2825%29.png)
 
 In line with our mission to make DeFi accessible for everyone, we created FaaS to allow new projects to easily deploy their contracts instead of having to spend time on forking and deploying the associated contracts the relevant contracts.  
+  
 With Value Liquid’s Farming Pool Creation UI  teams can now create the desired customized liquidity pools and pairs along with flexible ratios, customizable fees, and token contract minter approval for the Liquidity Pool with a couple of clicks. An example would be a pool with USDC/New token 67/23 ratio with a 0.60% swap fee that has token minting per block like Sushiswap.
 
 This is free and allows anyone to bootstrap their new project making it more accessible.  
