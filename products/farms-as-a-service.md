@@ -51,5 +51,5 @@ As a reminder, no change can be made to a FaaS pool once it is created! This was
              ****• _Unstaking frozen time_ \(the amount of time liquidity providers of the pool will have their liquidity locked at the pool\)
 
 **7\) Where do I go to learn more?**  
-Don’t hesitate to visit our FaaS resource section - [https://docs.valuedefi.io/products/farms-as-a-service](https://docs.valuedefi.io/products/farms-as-a-service). We also recommend you join our Discord & Telegram groups; one of our mods will be more than happy to answer any questions you might have.
+Don’t hesitate to come back to this page as the content of this page is going to be maintained periodically. We also recommend you join our Discord & Telegram groups; one of our mods will be more than happy to answer any questions you might have.
 
