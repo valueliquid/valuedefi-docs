@@ -1,4 +1,4 @@
 # Governance Vault - Staking Guide
 
-Coming soo
+Coming soon.
 
