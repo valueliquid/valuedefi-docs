@@ -35,8 +35,6 @@ There is no fee associated with the creation of a FaaS pool other than the netwo
               **• Step 3** - Complete all the required fields  
               **• Step 4** - Submit your pool to the blockchain with the push of a button and voila!
 
-As a reminder, no change can be made to a FaaS pool once it is created! This was done by design to protect current stakers.
-
 **5\) How long does it take to setup a FaaS pool?**  
  Assuming you know the pool parameters for your pool, getting it up-and-running shouldn’t take more than 15 minutes!
 
