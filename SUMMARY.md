@@ -24,6 +24,7 @@
 
 ## Guides <a id="guides-1-1"></a>
 
+* [Save on Transaction Fees using the Chi Gastoken](guides-1-1/save-on-transaction-fees-using-the-chi-gastoken.md)
 * [Governance Vault - Staking Guide](guides-1-1/governance-vault-staking-guide.md)
 * [Provide Liquidity on Value Liquid](guides-1-1/provide-liquidity-on-value-liquid-and-farm-for-value-rewards.md)
 * [Farm Value Token rewards](guides-1-1/farm-value-token-rewards.md)
