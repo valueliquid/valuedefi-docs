@@ -24,7 +24,7 @@
 
 ## AMA Sessions \(transcripts\) <a id="ama-sessions"></a>
 
-* [January 21st, 2021 \(Discord\)](ama-sessions/january-21st-2021-discord.md)
+* [January 21st, 2021 \(Official Discord\)](ama-sessions/january-21st-2021-discord.md)
 
 ## Guides <a id="guides-1-1"></a>
 

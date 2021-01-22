@@ -1,10 +1,9 @@
 ---
 description: >-
-  Source: 
   https://discord.com/channels/738345978750435408/801818237037314069/801825552088432652
 ---
 
-# January 21st, 2021 \(Discord\)
+# January 21st, 2021 \(Official Discord\)
 
 ![](../.gitbook/assets/introama-1.png)
 
