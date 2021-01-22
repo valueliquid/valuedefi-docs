@@ -22,6 +22,10 @@
 * [Vision & Mission](resources/vision-mission.md)
 * [Infographics](resources/infographic.md)
 
+## AMA Sessions \(transcripts\) <a id="ama-sessions"></a>
+
+* [January 21st, 2021 \(Discord\)](ama-sessions/january-21st-2021-discord.md)
+
 ## Guides <a id="guides-1-1"></a>
 
 * [Save on Transaction Fees using the Chi Gastoken](guides-1-1/save-on-transaction-fees-using-the-chi-gastoken.md)
