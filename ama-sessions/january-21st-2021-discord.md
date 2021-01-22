@@ -1,5 +1,7 @@
 # January 21st, 2021 \(Discord\)
 
+![](../.gitbook/assets/introama-1.png)
+
 ## Are there still plans to relaunch the multistable vault and if so, when?
 
 We have plan for relaunching the multi-stables vault, we also have an improved design so it could keep up with high APY expectation from users. ETA: Next month
