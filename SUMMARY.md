@@ -20,7 +20,7 @@
   * [Automated market maker](resources/glossary/automated-market-maker.md)
   * [DeFi](resources/glossary/defi.md)
 * [Vision & Mission](resources/vision-mission.md)
-* [Infographics 123](resources/infographic.md)
+* [Infographics](resources/infographic.md)
 
 ## AMA Sessions \(transcripts\) <a id="ama-sessions"></a>
 
