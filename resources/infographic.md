@@ -1,8 +1,8 @@
 ---
-description: Find all infographic about Value DeFi ecosystem here
+description: Find all infographic about Value DeFi ecosystem here 123
 ---
 
-# Infographics
+# Infographics 123
 
 **Value Ecosystem**
 
