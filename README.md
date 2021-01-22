@@ -10,7 +10,7 @@ description: >-
 
 Value DeFi Protocol is a platform containing a suite of products that aims to bring fairness, true value, and innovation to Decentralized Finance. 
 
-#### **We operate on four core tenets:**
+#### **We operate on four core tenets:** 
 
 1. increase accessibility to yield farming
 2. provide on-chain voting for governance
