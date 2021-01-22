@@ -4,7 +4,7 @@
 
 We have plan for relaunching the multi-stables vault, we also have an improved design so it could keep up with high APY expectation from users. ETA: Next month
 
-## Hi @satoshivalue can you please advice what our partnerships are with Link, DOT.etc? 
+## Hi @satoshivalue can you please advice what our partnerships are with Link, DOT, etc...? 
 
 For the Polkadot/Moonbeam/Chainlink partnerships they are real and we are working closely with them. They are offering us assistance either via feedback, marketing and even straight implementation, even talks of a Polkadot grant. However, none of these projects like to use the word 'partnership' as it implies they are directly responsible for us. They use relationship, as it implies we are still connected. All 3 gave their feedback and approval to our recent whitepaper release, and Polkadot told us they would be ready with their own announcement of our developments after we launch to Moonbeam's parachain. They work on certainties, which is understandable when being such a massive influence in the crypto-space. Prod already answered but I will reconfirm it here. The partnership was mostly overused by everyone. Projects like ChainLink or Polkadot don't have any partnership with any other project. They approached us, offered their help/collaboration because they saw value in builders like us. We are extremely thankful for their helps in last few difficult months and commit to build our products with their collaboration in mind.
 
@@ -12,9 +12,9 @@ For the Polkadot/Moonbeam/Chainlink partnerships they are real and we are workin
 
 We are quite confident with our techs. The most problems we experienced after 5 months of the project that we are still short at marketing and communication. Education for new users is also the next priority we should focus on.
 
-## Hello devs, what is your plan to improve marketing and how can we help ?
+## Hello devs, what is your plan to improve marketing and how can we help?
 
-We recently hired @Remy who has extensive history with marketing, when he's available he can definitely introduce himself and provide a small background. He is just step 1 of marketing. Let us introduce our new head of marketing @Remy , who will lead the Marketing Dept. Official announcement for this will be done later. Remy is onboard and coming to help lead the way for marketing department. We are focusing on the infrastructure then moving to business development and social media marketing. Just from hearing about his resume and the talks we have had so far, things will get going in the right direction soon enough. Remy is our newest team member and we are very happy to have him onboard. Give him a warm welcome! \(Not sure he’s here to talk more on this atm\)
+We recently hired @Remy who has extensive history with marketing, when he's available he can definitely introduce himself and provide a small background. He is just step 1 of marketing. Let us introduce our new head of marketing @Remy , who will lead the Marketing Dept. Official announcement for this will be done later. Remy is onboard and coming to help lead the way for marketing department. We are focusing on the infrastructure then moving to business development and social media marketing. Just from hearing about his resume and the talks we have had so far, things will get going in the right direction soon enough. Remy is our newest team member and we are very happy to have him onboard. Give him a warm welcome! \(Not sure he’s here to talk more on this atm\).
 
 ## Will there be a countdown for the vUSD pool start? Which long-term goals do you have?
 
@@ -22,7 +22,7 @@ vUSD bootstrapping will definitely start this week. We will have an UI update an
 
 ## Is there an updates roadmap?
 
-I think an updated Roadmap would definitely be a good idea, we've taken a much more efficient approach to our development in 2021. During our dark time in November we got put really off-track, but now we have clear goals. Value Liquid + Faas, and vTokens + Lending have our complete focus right now, and we plan to take it all cross-chain.
+I think an updated Roadmap would definitely be a good idea, we've taken a much more efficient approach to our development in 2021. During our dark time in November we got put really off-track, but now we have clear goals. Value Liquid + FaaS, and vTokens + Lending have our complete focus right now, and we plan to take it all cross-chain.
 
 ## If the fees on ValueLiquid are lower then Uniswap, and you can steal liquidity from there an from Sushi...the volume will come is insane. What are your thoughts about this and what is the exact date for launch?
 
@@ -32,35 +32,35 @@ We are live testing the new core upgrade now. We could demonstrate the low gas f
 
 We spent a lot of time researching the topic and if you read our WP, a lot of novel improvements are implemented in comparison to the original idea of Basis. We also are working on a comparison matrix and infographic to show our improvements.
 
-## I'm a small investor. Havent much luck in VALUE yet. Gas is high, but would consider exit from crypto when gas is low. Would you want me to stay? If yes what is your argument for me and for ppl with small bags?
+## I'm a small investor. I haven't had much luck in VALUE yet. Gas is high, but would consider exit from crypto when gas is low. Would you want me to stay? If yes what is your argument for me and for ppl with small bags?
 
 Layer2 and cross-chain will be our savior. These techs also are moving very fast so I expect cheap gas fee for everyone will come sooner than people think. Of course we welcome everyone to stay, we try our best to develop for the small guy. When you have small capital you must be smarter with depositing and withdrawing. Once Liquid gets it Core upgrade, which includes the FaaS upgrades, we will have multitude of pools available to farm. Better yet, Gov Vault will get massive trading volume \(assuming at least one of these projects matches BSD's success\). We have OVER 10 waiting for these upgrades.
 
-## Would you consider to work with polkadot or other protocol to avoid the problem etherum is facing now or you are waiting for eth 2.0?
+## Would you consider to work with Polkadot or other protocol to avoid the problem Ethereum is facing now or you are waiting for eth 2.0?
 
 Working with MoonBeam network very closely to deploy onto the Polkadot network. Polkadot is doing auctions for parachain slots and Moonbeam was on the initial first round list. Kusama is all an option not sure if it’s for test net or another means to deploy to help save with these crazy expensive ETH fees. We have been doing extensive research on Layer2 solution with another project for a while. Progresses will be shown after both team comes to agreement.
 
-## Since XRP is facing legality issues in the US . In hindsight, Do you think Value Defi will hit obstacles likewise in the future? And if so how would you face these regulations?
+## Since XRP is facing legality issues in the US . In hindsight, Do you think Value DeFi will hit obstacles likewise in the future? And if so how would you face these regulations?
 
 XRP is facing legal actions because of its ICO, and dumping of tokens. That does not apply to us. Plus, this is DeFi, we're in the wild-west of uncharted regulation, we are safe from the big bad government
 
 ## First - is it just Satoshi...or are more members of the team here, maybe you can tell us your role in the team?
 
-I'm the co-founder of this project. We also have others people in my team here but they are mostly coders. I'm also a coder and reseacher.
+I'm the co-founder of this project. We also have others people in my team here but they are mostly coders. I'm also a coder and researcher.
 
-## Will referrals be reintroduced? When setting up a new FaaS pool a % of rewards slider could be an additional option.
+## Will referrals be reintroduced? When setting up a new FaaS pool a % of rewards slider could be an additional option?
 
 We already have that! The FaaS Council is running referrals at $100 per person for every project they onboard!
 
-## When we conduct transactions on DEXs, such as Value, there is always the need to approve the access to the token we have, this consumes gas \(not much, but it does\). Is there a possibility that this type of authorization could be carried out as when we remove liquidity from a pool \(the initial step, of course\), like only signing the autorization?
+## When we conduct transactions on DEXs, such as Value, there is always the need to approve the access to the token we have, this consumes gas \(not much, but it does\). Is there a possibility that this type of authorization could be carried out as when we remove liquidity from a pool \(the initial step, of course\), like only signing the authorization?
 
 There is actually new tech that works with gas-less approvals via signatures, definitely something we've been checking out.
 
-## When do you predict there will be a significant enough amount of liquidity to support larger swaps of vusd ~5k without a large price impact.
+## When do you predict there will be a significant enough amount of liquidity to support larger swaps of vUSD ~5k without a large price impact.
 
 Liquidity for VALUE will be increased significant with the launch of vTokens, more details will be revealed with voting very soon
 
-## When does Value DeFi plan on offering on current big crypto exchanges? I.e Binance, Coinbase
+## When does Value DeFi plan on offering on current big crypto exchanges? \(i.e Binance, Coinbase\)
 
 Sorry but getting into a CEX is not our goal
 
@@ -70,15 +70,15 @@ Since vDOT did not have a 'pre-mine' like vUSD and vETH \(now vBTC\) we have 4 s
 
 ## So the 10% mentioned will go to a new address. After this, before any funds are moved to a liquidity pool, is there some kind of multi-sig authorization. Or how can we ensure these tokens aren't moved outside of the protocol?
 
-A: No the liquidity pools on ValueLiquid will get the expansion fund directly, no one controls it
+No the liquidity pools on ValueLiquid will get the expansion fund directly, no one controls it
 
-## How will we stay competitive against other DEX like 1inch and uniswap?
+## How will we stay competitive against other DEX like 1inch and Uniswap?
 
-A: Uniswap has the first mover advantage and likely will stay. Sushiswap bootstrap it by giving away their SUSHI unlimited. 1inch is not a DEX in a technical sense, rather they are an aggregator. Our vision is to offer many unique features to standout and attract users.
+Uniswap has the first mover advantage and likely will stay. Sushiswap bootstrap it by giving away their SUSHI unlimited. 1inch is not a DEX in a technical sense, rather they are an aggregator. Our vision is to offer many unique features to standout and attract users.
 
-## How will we address the fact that our supply is over the originally stated 6.7 million tokens.
+## How will we address the fact that our supply is over the originally stated 6.7 million tokens?
 
-A: For the increased max supply that was not included into calculations, its because the vested Dev Fund actually mints when called, rather than the tokens already being on the blockchain, then transfered. This was a small oversight, but due to the amount of 'lost YFV' it kind of balanced it out. There will be approximately 7.2m VALUE total 'on the blockchain', but we estimate over 200k are irretrievable \(lost wallets, forgotten about, etc.\) since they have not moved in months and still reside on the redundant YFV chain.
+For the increased max supply that was not included into calculations, its because the vested Dev Fund actually mints when called, rather than the tokens already being on the blockchain, then transfered. This was a small oversight, but due to the amount of 'lost YFV' it kind of balanced it out. There will be approximately 7.2m VALUE total 'on the blockchain', but we estimate over 200k are irretrievable \(lost wallets, forgotten about, etc.\) since they have not moved in months and still reside on the redundant YFV chain.
 
 It was a small mis-calculation for the max amount of VALUE in the previous announcement. People could check the code \(we also have external auditors confirming the fact that the max minted VALUE from the contract is capped. Theoretically we could ask the community to raise the cap, but we understand the consequence of doing that, so likely we will never do so.
 
@@ -102,21 +102,25 @@ We keep expanding the team currently.
 
 Some members of the team have been involved in crypto for 7-8 years. Most have at least 2-3 years experience.
 
-## vUSD does not have any liquidity? when will be the release somehow, Thanks
+## vUSD does not have any liquidity? When will be the release?
 
-Plan to launch liquidity pools on Friday/Weekend. Tomorrow should be the launch of bootstrapping period to kick off liquidity
+Plan to launch liquidity pools on Friday/Weekend. Tomorrow should be the launch of bootstrapping period to kick off liquidity.
 
-## what kind of people are u hiring? whats the next main focus of ValueDefi?
+## what kind of people are u hiring? What's the next main focus of Value DeFi?
 
 Every field; marketing, management, development. We're expanding, and that goes for our tech too. We want to take Value cross-chain with more than just our vTokens.
 
 We are looking for marketing people and more developers currently.
 
-## Can you confirm if the gvVault will farm the Value pool for vDot, will rewards be in vDot or converted to value and autocompounded?
+## Can you confirm if the gvVault will farm the Value pool for vDot, will rewards be in vDOT or converted to value and auto-compounded?
 
-The farmed vDOT will be distributed to governance vault like the profit share tokens Q: ETA on vDOT/vBTC pools? A: After new vUSD launch this week we will have ETA for vBTC and vDOT
+The farmed vDOT will be distributed to governance vault like the profit share tokens
 
-## Hi @Prod what is different between vUsd and BDO. It look like same technical.
+## ETA on vDOT/vBTC pools?
+
+After new vUSD launch this week we will have ETA for vBTC and vDOT.
+
+## Hi @Prod what is different between vUsd and BDO? It look like same technically.
 
 Although vUSD at its core is an algorithm stablecoin, we have far significant improvements over the competition regarding long-term stability to its respective peg. On top, our vTokens have the ability to go cross-chain. Polkadot is just the beginning. BDO is a fork from BSD to Binance Smart Chain AFAIK
 
@@ -140,17 +144,17 @@ New liquidity pool for VBOND will be up using new core very very soon. Then we w
 
 New Core upgrade, which is in final testing, makes our transaction far more efficient, up to 40% cheaper.
 
-## I understand how great faas is for the platform but it does have its limitations in regards to the avg user who may just want to make a pool that auto balances their portfolio without any fancy liquidity mining. Will VL ever allow for regular pool creation ?
+## I understand how great FaaS is for the platform but it does have its limitations in regards to the average user who may just want to make a pool that auto balances their portfolio without any fancy liquidity mining. Will VL ever allow for regular pool creation ?
 
 You mean like a seed pool? It's definitely in the plans, we've had a few projects just wanting to add pools that have nothing to do with trading or impermanent loss or pairs. Just simple Stake token A to earn Token A or a different Token B
 
-## How will we be able to pull liquidity from Uniswap and will we be able to trade any erc 20 tokens by doing this? ex. coingecko default list
+## How will we be able to pull liquidity from Uniswap and will we be able to trade any ERC-20 tokens by doing this? ex. Coingecko default list
 
 Yes using our advance routing tech, people will be able to trade any token which is available at Uniswap/Sushiswap through ValueLiquid with the new core upgrade
 
 ## Is there some plan to allow future FaaS projects to present themselves to community? Getting community verified is difficult if there is no way for them to present who they are to that same community
 
-I think the community will have better suggestions/answers than us for this question
+I think the community will have better suggestions/answers than us for this question.
 
 ## Any future L2 plans like Optimistic rollups, or the Matic Network, or xDAI?
 
