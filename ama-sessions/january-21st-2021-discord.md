@@ -9,7 +9,7 @@ description: >-
 
 ## 1\) Are there still plans to relaunch the multistable vault and if so, when?
 
-We have plan for relaunching the multi-stables vault, we also have an improved design so it could keep up with high APY expectation from users. ETA: Next month.
+We have plan for relaunching the multi-stables vault, we also have an improved design so it could keep up with high APY expectation from users. ETA: Next month. 
 
 ## 2\) Hi @satoshivalue can you please advice what our partnerships are with Link, DOT, etc...? 
 
