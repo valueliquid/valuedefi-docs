@@ -16,7 +16,7 @@ Today, we are announcing the creation of a **decentralized lending platform** th
 
 Due to the scope of this announcement, further details about this new vUSD/vETH platform will be revealed in a separate article.  
   
-**Contract addresses**  
+**Contract addresses 123**  
 vUSD contract address: [0x1B8E12F839BD4e73A47adDF76cF7F0097d74c14C](https://etherscan.io/token/0x1B8E12F839BD4e73A47adDF76cF7F0097d74c14C)   
 vETH contract address: [0x76A034e76Aa835363056dd418611E4f81870f16e](https://etherscan.io/token/0x76A034e76Aa835363056dd418611E4f81870f16e)
 
